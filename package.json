@@ -1,0 +1,32 @@
+{
+  "name": "test-store",
+  "version": "1.0.0",
+  "description": "\"# test-store\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himlayyy/test-store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himlayyy/test-store/issues"
+  },
+  "homepage": "https://github.com/himlayyy/test-store#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-replace": "^1.1.3",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.37.5"
+  },
+  "dependencies": {
+    "@shopify/themekit": "^1.1.9",
+    "gulp-clean-css": "^4.3.0"
+  }
+}
